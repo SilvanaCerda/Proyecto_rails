@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  references: 
+  eventname: MyString
+  description: MyText
+  img: MyString
+  slug: MyString
+  startdate: 2021-03-16 03:04:53
+  publishdate: 2021-03-16 03:04:53
+  status: MyString
+  quantytickets: 1
+  price: 1
+
+two:
+  references: 
+  eventname: MyString
+  description: MyText
+  img: MyString
+  slug: MyString
+  startdate: 2021-03-16 03:04:53
+  publishdate: 2021-03-16 03:04:53
+  status: MyString
+  quantytickets: 1
+  price: 1
